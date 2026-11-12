@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">AI and Machine Learning</title>
+  <desc id="desc">A dark technical banner with cyan and violet accents, abstract neural network connections, and the title AI and Machine Learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080E1B"/>
+      <stop offset=".58" stop-color="#101B30"/>
+      <stop offset="1" stop-color="#111329"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55D6FF"/>
+      <stop offset="1" stop-color="#9B8CFF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2D9FC5" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#2D9FC5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#8DA9C8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+  <ellipse cx="980" cy="170" rx="360" ry="290" fill="url(#glow)"/>
+  <path d="M0 330 C260 285 350 410 620 330 S1000 275 1200 320" fill="none" stroke="#55D6FF" stroke-opacity=".12" stroke-width="1.5"/>
+  <path d="M0 350 C260 305 350 430 620 350 S1000 295 1200 340" fill="none" stroke="#9B8CFF" stroke-opacity=".12" stroke-width="1.5"/>
+  <g fill="none" stroke="url(#accent)" stroke-opacity=".5" stroke-width="1.5">
+    <path d="M825 92L930 145L1038 86L1110 160L1010 245L890 220L825 92"/>
+    <path d="M930 145L890 220M1038 86L1010 245M930 145L1110 160"/>
+    <path d="M890 220L965 310L1010 245L1110 160"/>
+  </g>
+  <g fill="#0D1B2C" stroke="#55D6FF" stroke-width="2">
+    <circle cx="825" cy="92" r="7"/><circle cx="930" cy="145" r="9"/><circle cx="1038" cy="86" r="6"/>
+    <circle cx="1110" cy="160" r="8"/><circle cx="1010" cy="245" r="10"/><circle cx="890" cy="220" r="6"/>
+    <circle cx="965" cy="310" r="6"/>
+  </g>
+  <g fill="#9B8CFF" opacity=".85">
+    <circle cx="930" cy="145" r="3"/><circle cx="1010" cy="245" r="3"/><circle cx="1110" cy="160" r="2.5"/>
+  </g>
+  <text x="82" y="105" fill="#55D6FF" font-family="JetBrains Mono, monospace" font-size="15" letter-spacing="4">VARIABLEH  /  ENGINEERING &amp; CODE</text>
+  <text x="78" y="190" fill="#F2F7FF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.8">AI &amp; MACHINE</text>
+  <text x="78" y="255" fill="#F2F7FF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.8">LEARNING<span fill="url(#accent)">.</span></text>
+  <rect x="82" y="286" width="58" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="82" y="326" fill="#B9C8DA" font-family="Arial, Helvetica, sans-serif" font-size="20">Software Development  ·  Intelligent Systems</text>
+  <text x="82" y="356" fill="#8195AD" font-family="Arial, Helvetica, sans-serif" font-size="14">AVIONICS ENGINEERING STUDENT</text>
+  <text x="1115" y="355" text-anchor="end" fill="#71869F" font-family="JetBrains Mono, monospace" font-size="12">PYTHON / ML / DL</text>
+</svg>
