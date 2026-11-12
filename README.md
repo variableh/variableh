@@ -37,7 +37,7 @@ My engineering background also shapes my interest in intelligent systems and app
 **Working with**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python, numpy,pandas,sklearn,matplotlib,git,github,linux,vscode" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,linux,jupyter,vscode" alt="Technologies" />
 </p>
 
 **Currently learning**
